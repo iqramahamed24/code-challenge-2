@@ -23,3 +23,4 @@ function filterPrime(nums) {
 }
 // Set a new const to only get an ouput of prime numbers from the array.
 const prime = filterPrime(myArray);
+console.log(prime)
